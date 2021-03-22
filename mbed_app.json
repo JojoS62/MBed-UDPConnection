@@ -1,0 +1,10 @@
+{
+    "target_overrides": {
+        "*": {
+            "target.printf_lib": "std", 
+            "platform.stdio-baud-rate": 115200,
+            "lwip.mem-size": 16384,
+            "lwip.ipv4-enabled": true
+        }
+    }
+}

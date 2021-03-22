@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "mbed-os"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.cpp": "cpp",
+			"*.htm": "html",
+			"*.html": "html",
+			"thread": "cpp",
+			"fonts.h": "c",
+			"array": "cpp",
+			"deque": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"initializer_list": "cpp",
+			"mstd_iterator": "cpp",
+			"*.tcc": "cpp",
+			"fstream": "cpp",
+			"xstring": "cpp",
+			"md5.h": "c"
+		}
+	}
+}
